@@ -1,32 +1,141 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2019-02-20T11:28:48+07:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://chikity.github.io/authors/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://chikity.github.io/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-02-20T11:28:48+07:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://chikity.github.io/tags/gardening/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2019-02-20T11:28:48+07:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://chikity.github.io/tags/school/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://chikity.github.io/tags/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/talk/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/talk/vertical_gardening/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/project/</loc>
+      <lastmod>2019-03-06T14:48:41+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/project/remote-temperatue-humidity-logger/</loc>
+      <lastmod>2019-03-06T14:48:41+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/project/domestic-wastewater-treatment-system/</loc>
+      <lastmod>2019-02-21T10:44:45+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/tags/electronics/</loc>
+      <lastmod>2019-02-21T10:44:45+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/tags/wastewater/</loc>
+      <lastmod>2019-02-21T10:44:45+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/author/admin/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/author/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/categories/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/post/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/publication_types/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/publication/</loc>
+    </url>
+    
   
 </urlset>

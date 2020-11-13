@@ -1,23 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Chi Kit Yeung on Chi Kit Yeung</title>
+    <link>https://chikity.github.io/</link>
+    <description>Recent content in Chi Kit Yeung on Chi Kit Yeung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Feb 2019 11:28:48 +0700</lastBuildDate>
-    
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>&amp;copy; 2020 Chi Kit Yeung</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Wed, 20 Feb 2019 11:28:48 +0700</pubDate>
+      <title>Vertical Gardens and Their Benefits</title>
+      <link>https://chikity.github.io/talk/vertical_gardening/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>test 123</description>
+      <guid>https://chikity.github.io/talk/vertical_gardening/</guid>
+      <description>&lt;p&gt;We were invited by Anglo Singapore International School to give a short lecture on Vertical Gardening and how it can positively contribute to urban environmental issues.&lt;/p&gt;
+
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    
+Click on the **Slides** button above to view the built-in slides feature.
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Remote Weather Station</title>
+      <link>https://chikity.github.io/project/remote-temperatue-humidity-logger/</link>
+      <pubDate>Wed, 06 Mar 2019 14:48:41 +0700</pubDate>
+      
+      <guid>https://chikity.github.io/project/remote-temperatue-humidity-logger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domestic Wastewater Treatment System</title>
+      <link>https://chikity.github.io/project/domestic-wastewater-treatment-system/</link>
+      <pubDate>Thu, 21 Feb 2019 10:44:45 +0700</pubDate>
+      
+      <guid>https://chikity.github.io/project/domestic-wastewater-treatment-system/</guid>
+      <description></description>
     </item>
     
   </channel>

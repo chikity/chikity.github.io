@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gardening on Chi Kit Yeung</title>
+    <link>https://chikity.github.io/tags/gardening/</link>
+    <description>Recent content in gardening on Chi Kit Yeung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Chi Kit Yeung</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://chikity.github.io/tags/gardening/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vertical Gardens and Their Benefits</title>
+      <link>https://chikity.github.io/talk/vertical_gardening/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://chikity.github.io/talk/vertical_gardening/</guid>
+      <description>An introduction on growing things vertically and it&amp;rsquo;s impact on the world&amp;rsquo;s problems.</description>
+    </item>
+    
+  </channel>
+</rss>
