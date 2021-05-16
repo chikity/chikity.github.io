@@ -1,52 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Chi Kit Yeung</title>
-    <link>https://chikity.github.io/tags/</link>
-    <description>Recent content in Tags on Chi Kit Yeung</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Chi Kit Yeung</copyright>
-    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://chikity.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>gardening</title>
-      <link>https://chikity.github.io/tags/gardening/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://chikity.github.io/tags/gardening/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school</title>
-      <link>https://chikity.github.io/tags/school/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://chikity.github.io/tags/school/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>electronics</title>
-      <link>https://chikity.github.io/tags/electronics/</link>
-      <pubDate>Thu, 21 Feb 2019 10:44:45 +0700</pubDate>
-      
-      <guid>https://chikity.github.io/tags/electronics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wastewater</title>
-      <link>https://chikity.github.io/tags/wastewater/</link>
-      <pubDate>Thu, 21 Feb 2019 10:44:45 +0700</pubDate>
-      
-      <guid>https://chikity.github.io/tags/wastewater/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Chi Kit Yeung</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
   </channel>
 </rss>
