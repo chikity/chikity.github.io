@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Chi Kit Yeung</title>
-    <link>/event/</link>
-      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chikity.github.io/event/</link>
+      <atom:link href="https://chikity.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Chi Kit Yeung · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Wed, 12 Jun 2019 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chikity.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/event/</link>
+      <link>https://chikity.github.io/event/</link>
     </image>
     
     <item>
       <title>Vertical Gardens and Their Benefits</title>
-      <link>/talk/vertical-gardens-and-their-benefits/</link>
+      <link>https://chikity.github.io/talk/vertical-gardens-and-their-benefits/</link>
       <pubDate>Wed, 12 Jun 2019 13:00:00 +0000</pubDate>
-      <guid>/talk/vertical-gardens-and-their-benefits/</guid>
+      <guid>https://chikity.github.io/talk/vertical-gardens-and-their-benefits/</guid>
       <description>&lt;p&gt;We were invited by Anglo Singapore International School to give a short lecture on Vertical Gardening and how it can positively contribute to urban environmental issues.&lt;/p&gt;
 </description>
     </item>
